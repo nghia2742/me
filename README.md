@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 👋,<br><br>I'm Nghia, a passionate web developer. 💻 <br><br>I am seeking collaboration opportunities and support from businesses to further develop myself. 💪<br><br>Thank you for taking the time to read my introduction. Looking forward to connecting and sharing in the exciting journey of development with you! ✨<br>
+Hello 👋,<br><br>I'm Nghia, a web developer. 💻 <br><br>I am seeking collaboration opportunities and support from businesses to further develop myself. 💪<br><br>Thank you for taking the time to read my introduction. Looking forward to connecting and sharing in the exciting journey of development with you! ✨<br>
 
 
 ## 🌐 Socials:
